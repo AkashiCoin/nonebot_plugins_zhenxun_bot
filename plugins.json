@@ -60,7 +60,7 @@
     "description": "AI全家桶，一次安装，到处使用，省时省力省心",
     "usage": "AI全家桶，一次安装，到处使用，省时省力省心\n    usage:\n        生成图片 <prompt>\n        生成视频 <prompt>\n        清理我的会话:   用于清理你与AI的聊天记录\n    或者与机器人聊天，\n    例如；\n        @Bot抱抱\n        小真寻老婆",
     "author": "molanp",
-    "version": "0.1",
+    "version": "0.2",
     "plugin_type": "NORMAL",
     "is_dir": true,
     "github_url": "https://github.com/molanp/zhenxun_plugin_zhipu_toolkit"
